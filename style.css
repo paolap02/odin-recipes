@@ -1,0 +1,10 @@
+* {
+    background-color: chocolate;
+    color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    border-radius: 20px;
+    border-style: dotted;
+}

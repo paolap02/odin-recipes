@@ -10,4 +10,4 @@ It will be a useful template for anyone who wishes to showcase their recipes.
 
 ## Lessons learned
 
-I will update this section when the project is finished.
+I learned the basics of HTML website building and I look forward to learn more!
