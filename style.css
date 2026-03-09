@@ -28,7 +28,11 @@ img {
 body {
     max-width: 648px;
     margin: auto;
-    font-size: 18px;
+    font-size: 20px;
+}
+
+ul {
+    list-style: circle;
 }
 
 a {
@@ -37,4 +41,9 @@ a {
 
 a:hover {
     text-decoration: none;
+}
+
+footer {
+text-align: center;
+margin: 50px;
 }
