@@ -1,7 +1,20 @@
 * {
     background-color: chocolate;
-    color: antiquewhite;
-    font-family: 'Courier New', Courier, monospace;
+    color: #faebd7;
+    font-family: cursive;
+}
+
+header {
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+}
+
+.headerImg {
+    max-width: ;
+    margin: auto;
 }
 
 img {
