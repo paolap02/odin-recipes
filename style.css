@@ -1,7 +1,7 @@
 * {
     background-color: chocolate;
     color: #faebd7;
-    font-family: cursive;
+    font-family: "Courier New", monospace;
 }
 
 header {
@@ -15,14 +15,17 @@ nav {
 .headerImg {
     max-width: ;
     margin: auto;
+    border-radius: unset;
+    border-style: none;
 }
 
 img {
     border-radius: 20px;
     border-style: dotted;
+    max-width: 500px;
 }
 
 body {
-    max-width: fit-content;
+    max-width: 648px;
     margin: auto;
 }
