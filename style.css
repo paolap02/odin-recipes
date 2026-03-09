@@ -13,7 +13,7 @@ nav {
 }
 
 .headerImg {
-    max-width: ;
+    max-width: 648px;
     margin: auto;
     border-radius: unset;
     border-style: none;
@@ -28,4 +28,13 @@ img {
 body {
     max-width: 648px;
     margin: auto;
+    font-size: 18px;
+}
+
+a {
+    text-decoration: line-through;
+}
+
+a:hover {
+    text-decoration: none;
 }
