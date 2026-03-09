@@ -1,7 +1,16 @@
 * {
-    background-color: chocolate;
     color: #faebd7;
     font-family: "Courier New", monospace;
+}
+
+div {
+    background-color: rgba(128, 55, 0, 0.45);
+    border-radius: 15px;
+    padding-top: 10px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    margin: 10px;
 }
 
 header {
@@ -29,6 +38,7 @@ body {
     max-width: 648px;
     margin: auto;
     font-size: 20px;
+    background-color: chocolate;
 }
 
 ul {
